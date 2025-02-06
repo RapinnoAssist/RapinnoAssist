@@ -1,1 +1,1 @@
-"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[7472],{5513:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Creating Intents","permalink":"/cogniassist-docs-updated/blog/creating-intents","unlisted":false}]}')}}]);
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[7472],{5513:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Creating Intents","permalink":"/RapinnoAssist/blog/creating-intents","unlisted":false}]}')}}]);
